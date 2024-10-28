@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>&hearts;MY PORTIFOLIO &hearts;</title>
+<style>
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+padding: 0;
+background-color: #f0f0f0;
+text-align: center;
+}
+.container{
+padding: 20px;
+}
+.profile-pic{
+width: 100px;
+border: 50%;
+}
+h1{
+font-size: 24px;
+color: #333;
+}
+p{
+color: #666;
+}
+.social-links a{
+margin:0 10px;
+text-decoration: none;
+color: #007bff;
+}
+.banner{
+background-color: #ffa500;
+color: white;
+padding: 10px;
+margin:20px 0;
+}
+nav a{
+margin:0 10px;
+text-decoration: none;
+color:#007bff
+}
+</style>
+
+</head>
+<body>
+<script src="demo.js"></script>
+<div class="container">
+<div class="profile-section">
+<img src="images/profile..jpg" class="Profile Picture" height="200px">
+<h1>I am Harshini</h1>
+<p>I'm a Web Developer</p>
+<p>Learning HTML,CSS,Bootstrap,JavaScript,React</p>
+
+</div>
+<br>
+<div class="social-links">
+<a href="#">Instagram</a>
+<a href="#">Facebook</a>
+<a href="#">Youtube</a>
+</div>
+<div class="banner">
+<h2>
+NEVER STOP LEARNING
+</h2>
+</div>
+<nav>
+<a href="#">Skills</a>
+<a href="#">Youtube</a>
+<a href="#">Experience</a>
+<a href="#">Education</a>
+<a href="#">Achievements</a>
+</nav>
+</div>
+</body>
+</html>
